@@ -1,0 +1,176 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2018.3.12f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=21733 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=39145 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=54273 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=34989 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=31529 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=64973 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=93381 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26648 outsize=15525 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3797 outsize=1749 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=9265 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6309 outsize=661 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4918 outsize=2429 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10562 outsize=3893 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20012 outsize=14753 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7704 outsize=1781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=35413 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=34605 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17193 outsize=7121 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=2825 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7712 outsize=4613 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7237 outsize=142 kw=_NORMALMAP_TANGENT_SPACE _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=1326 outsize=677 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9814 outsize=3601 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7060 outsize=810 kw=_NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7060 outsize=262 kw=_NORMALMAP_TANGENT_SPACE _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at D:/Fall 2019/PersonalProjects/EffectsPlayground/Effects Playground/Library/PackageCache/com.unity.visualeffectgraph@5.16.1-preview/Shaders/RenderPipeline/HDRP/VFXLit.cginc(62): 'InitBuiltinData': cannot convert from 'const struct PositionInputs' to 'float'\nCompiling Vertex program with SHADOW_LOW USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=15169 outsize=0 kw=SHADOW_LOW USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: compileComputeKernel
+  api=4 insize=3602 outsize=1545 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at D:/Fall 2019/PersonalProjects/EffectsPlayground/Effects Playground/Library/PackageCache/com.unity.visualeffectgraph@5.16.1-preview/Shaders/RenderPipeline/HDRP/VFXLit.cginc(62): 'InitBuiltinData': cannot convert from 'const struct PositionInputs' to 'float'\nCompiling Fragment program with SHADOW_LOW USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=15917 outsize=0 kw=SHADOW_LOW USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at D:/Fall 2019/PersonalProjects/EffectsPlayground/Effects Playground/Library/PackageCache/com.unity.visualeffectgraph@5.16.1-preview/Shaders/RenderPipeline/HDRP/VFXLit.cginc(62): 'InitBuiltinData': cannot convert from 'const struct PositionInputs' to 'float'\nCompiling Vertex program with SHADOW_LOW USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=15878 outsize=0 kw=SHADOW_LOW USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at D:/Fall 2019/PersonalProjects/EffectsPlayground/Effects Playground/Library/PackageCache/com.unity.visualeffectgraph@5.16.1-preview/Shaders/RenderPipeline/HDRP/VFXLit.cginc(62): 'InitBuiltinData': cannot convert from 'const struct PositionInputs' to 'float'\nCompiling Fragment program with SHADOW_LOW USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=15917 outsize=0 kw=SHADOW_LOW USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at D:/Fall 2019/PersonalProjects/EffectsPlayground/Effects Playground/Library/PackageCache/com.unity.visualeffectgraph@5.16.1-preview/Shaders/RenderPipeline/HDRP/VFXLit.cginc(62): 'InitBuiltinData': cannot convert from 'const struct PositionInputs' to 'float'\nCompiling Vertex program with SHADOW_LOW USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=15917 outsize=0 kw=SHADOW_LOW USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at D:/Fall 2019/PersonalProjects/EffectsPlayground/Effects Playground/Library/PackageCache/com.unity.visualeffectgraph@5.16.1-preview/Shaders/RenderPipeline/HDRP/VFXLit.cginc(62): 'InitBuiltinData': cannot convert from 'const struct PositionInputs' to 'float'\nCompiling Vertex program with SHADOW_LOW USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=16826 outsize=0 kw=SHADOW_LOW USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: compileComputeKernel
+  api=4 insize=4830 outsize=1901 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at D:/Fall 2019/PersonalProjects/EffectsPlayground/Effects Playground/Library/PackageCache/com.unity.visualeffectgraph@5.16.1-preview/Shaders/RenderPipeline/HDRP/VFXLit.cginc(62): 'InitBuiltinData': cannot convert from 'const struct PositionInputs' to 'float'\nCompiling Fragment program with SHADOW_LOW USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=17673 outsize=0 kw=SHADOW_LOW USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: compileSnippet
+  api=4 type=1 insize=10675 outsize=6462 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=11460 outsize=6462 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=11460 outsize=6454 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at D:/Fall 2019/PersonalProjects/EffectsPlayground/Effects Playground/Library/PackageCache/com.unity.visualeffectgraph@5.16.1-preview/Shaders/RenderPipeline/HDRP/VFXLit.cginc(62): 'InitBuiltinData': cannot convert from 'const struct PositionInputs' to 'float'\nCompiling Vertex program with SHADOW_LOW USE_CLUSTERED_LIGHTLIST
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=18458 outsize=0 kw=SHADOW_LOW USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: compileSnippet
+  api=4 type=1 insize=11702 outsize=6462 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=94773 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=34669 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=41529 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=21733 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=40829 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=32993 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=49709 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=36397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=32969 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15475 outsize=96701 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25750 outsize=15505 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3797 outsize=1749 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5767 outsize=5913 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=12805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17415 outsize=8781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4918 outsize=2113 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12268 outsize=9925 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11993 outsize=2397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21453 outsize=13737 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3695 outsize=2689 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7883 outsize=689 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20668 outsize=95037 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=35006 outsize=31005 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=35006 outsize=31005 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5477 outsize=2417 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17691 outsize=7121 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=1233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=929 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9349 outsize=4921 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3043 outsize=541 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7712 outsize=4517 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3651 outsize=1065 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5725 outsize=7149 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3844 outsize=4301 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4811 outsize=2033 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2059 outsize=1517 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10881 outsize=10437 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18299 outsize=8693 ok=1
+Cmd: initializeCompiler
